@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.python-version
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Logs and temp
+*.log
+*.tmp
+
+# Credentials and secrets
+backend/credentials/
+*.env
+.env*
+
+# Node/Frontend (if tooling is added later)
+node_modules/
+dist/
+build/
+
+
